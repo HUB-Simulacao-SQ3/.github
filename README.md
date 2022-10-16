@@ -1,7 +1,3 @@
-# .github
+# MedSim
 
-README.md repository
-
-## Introduction
-
-In this repository is the README.md markdown file for the organization's presentation.
+Plataforma gamificada para a prática de conhecimentos dos alunos de medicina 
